@@ -1,10 +1,10 @@
  🌍 Land Cover Classification (EuroSAT)
 
-A deep learning pipeline for classifying **Sentinel-2 satellite images** into land cover types using the **EuroSAT** dataset.
+A pipeline for classifying **Sentinel-2 satellite images** into land cover types using the **EuroSAT** dataset.
 
 ---
 
-## ⚙️ Setu
+## ⚙️ Setup
 python -m venv env
 env\Scripts\activate
 pip install -r requirements.txt
